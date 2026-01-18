@@ -180,7 +180,8 @@ Using Parquet and partitioning for performance
 
 Writing analytical queries using Spark SQL
 
-------------------------------------------------------------------------------------------
+ 
 Understanding real-world E-commerce data
 
-Make it with design ready for GitHub readme repo
+
+------------------------------------------------------------------------------------------
